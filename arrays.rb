@@ -15,7 +15,7 @@ payments.shift
 # This method adds to the beginning of the array
 winning.unshift(false)
 
-= begin
+=begin
 Index positions start at 0
 # In neighbs "Kelsey" represents position 0 and "Carl"
 represents position 2
