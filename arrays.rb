@@ -20,3 +20,6 @@ Index positions start at 0
 # In neighbs "Kelsey" represents position 0 and "Carl"
 represents position 2
 =end
+
+# .length will return the amount of elements in an array
+payments.length
